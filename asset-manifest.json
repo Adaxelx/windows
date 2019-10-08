@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/windows/static/js/main.f9af954f.chunk.js",
-    "main.js.map": "/windows/static/js/main.f9af954f.chunk.js.map",
+    "main.js": "/windows/static/js/main.b0895da9.chunk.js",
+    "main.js.map": "/windows/static/js/main.b0895da9.chunk.js.map",
     "runtime~main.js": "/windows/static/js/runtime~main.d7c1f94e.js",
     "runtime~main.js.map": "/windows/static/js/runtime~main.d7c1f94e.js.map",
     "static/js/2.fb11b55f.chunk.js": "/windows/static/js/2.fb11b55f.chunk.js",
     "static/js/2.fb11b55f.chunk.js.map": "/windows/static/js/2.fb11b55f.chunk.js.map",
     "index.html": "/windows/index.html",
-    "precache-manifest.0d0092605ec39aa23e0d33ba21f6ca0e.js": "/windows/precache-manifest.0d0092605ec39aa23e0d33ba21f6ca0e.js",
+    "precache-manifest.abc935f38f5dbbd45d5390a7afc86686.js": "/windows/precache-manifest.abc935f38f5dbbd45d5390a7afc86686.js",
     "service-worker.js": "/windows/service-worker.js",
     "static/media/logo2.png": "/windows/static/media/logo2.26d15da7.png",
     "static/media/wallpaper.jpg": "/windows/static/media/wallpaper.230c6d1f.jpg"
